@@ -2,6 +2,11 @@
 # Facebook Login Page Clone using HTML & Tailwind CSS
 
 Hi dear, I created one Facebook login clone which is made using HTML and Tailwind CSS which is utility first framework of CSS. It is made by me. And yes, this is also a responsive clone, you can also see this clone on your mobile phone. So, checkout this clone. Thank you for visit dear!
+
+- Preview
+ 
+![fbclone](https://user-images.githubusercontent.com/94067118/157072601-8affd584-d5ca-4c6f-8f50-42a3c727bc7c.jpg)
+
 ## Authors
 
 - [@dattpanchal04](https://github.com/dattpanchal04)
